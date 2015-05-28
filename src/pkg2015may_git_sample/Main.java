@@ -24,4 +24,9 @@ public class Main {
         System.out.println("The message is " + message);
     }
     
+    public void JPprinter(String message)
+    {
+        System.out.println("メッセージは " + "です。");
+    }
+    
 }
